@@ -1,3 +1,7 @@
+
+<h1>
+Not The Official "Open-Assistant", this is just a hobby copy for me to try out : )
+</h1>
 <h1 align="center">
     <span>Open-Assistant</span>
   <img width="auto" height="50px" src="https://github.com/LAION-AI/Open-Assistant/blob/main/assets/logo_crop.png"/>
